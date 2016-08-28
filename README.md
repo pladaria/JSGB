@@ -8,7 +8,9 @@ This code is very old (2009).
 
 I think this is the world's first Nintendo GameBoy emulator written in JavaScript.
 
-By that time JS engines were not as fast as today so the code has lots of "bad practices" to improve speed like almost everything global, loop unrollings, etc.
+By that time JS engines were not as fast as today so the code has lots of "bad practices" to improve speed like almost everything global, loop unrollings, etc. Things like typed arrays, requestAnimationFrame, file API, etc. did not exist in that time (or were unknown to me).
+
+Includes a simple disassembler and debugger which supports breakpoints, step by step execution, cpu and memory viewer...
 
 I will complete this project... Someday.
 
