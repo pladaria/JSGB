@@ -14,8 +14,6 @@ I will complete this project... Someday.
 
 # Changelog
 ```text
- # v.0.0.0 #
-
  17 jul 2009: Start!
 
  30 jul 2009: Completed full instruction set. Made a simple debugger.
@@ -48,8 +46,6 @@ I will complete this project... Someday.
  04 sep 2009: Now the framerate is limited by setInterval (one frame is painted
               every 17ms).
  
- # v.0.0.1 #
-
  05 sep 2009: Input bug solved. Auto-repeated keys caused emulation to freeze.
               DAA instruction (stolen from VisualBoyAdvance).
 
@@ -78,6 +74,6 @@ I will complete this project... Someday.
               Found a bug in CPU, now more games are playable, like
               "Kirby's Dreamland", "Bomberman" and "Mario Land".
               Joined all timing routines (CPU, LCD, Timer) into a single one.
-
- # v.0.0.2 #
+              
+ 28 aug 2016: Created github repo :)
 ```
