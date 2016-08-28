@@ -77,3 +77,11 @@ I will complete this project... Someday.
               
  28 aug 2016: Created github repo :)
 ```
+# Special thanks
+- [Marat Fayzullin](http://fms.komkon.org/)
+- [Jan Verhoeven](http://www.vedt.nl/)
+
+# Documents
+- [Pandocs](http://nocash.emubase.de/pandocs.htm)
+- [GameBoy CPU Manual](https://www.google.com/?q=gameboy%20cpu%20manual)
+- [Z80 Family CPU User Manual](http://www.zilog.com/docs/z80/um0080.pdf)
