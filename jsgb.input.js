@@ -1,6 +1,6 @@
 /* 
  * jsgb.input.js v0.02 - buttons input module for JSGB, a JS GameBoy Emulator
- * Copyright (C) 2009 Pedro Ladaria <Sonic1980 at Gmail dot com>
+ * Copyright (C) 2009 Pedro Ladaria <pedro.ladaria at Gmail dot com>
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
